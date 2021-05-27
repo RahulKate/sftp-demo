@@ -12,4 +12,3 @@ The demo works both on Windows and Linux. List files in remote server, download 
 
 Feel free to use the code in this repository as it is under MIT license.
 
-<a href='https://ko-fi.com/changhuixu' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
