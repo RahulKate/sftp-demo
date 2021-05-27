@@ -15,13 +15,6 @@ namespace SftpDemo
             //                                        new PasswordAuthenticationMethod("guest", "pwd"),
             //                                        new PrivateKeyAuthenticationMethod("rsa.key"));
 
-            var config = new SftpConfig
-            {
-                Host = @"20.185.70.27",
-                Port = 22,
-                UserName = "admin12",
-                Password = @"Ftp@#007HaiFtp"
-            };
             //var config = new SftpConfig
             //{
             //    Host = "test.rebex.net",
